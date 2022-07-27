@@ -81,7 +81,7 @@ img {
   min-height: 400px;
   background: url(img/11.jpg);
   background-size: cover;
-  background-position: center;
+ /* background-position: center;*/
   padding: 3rem;
   display: flex;
   flex-direction: column;
